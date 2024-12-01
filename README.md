@@ -1,3 +1,7 @@
+to run the test:
+pytest israelRailWays.py from terminal on the directory that you have the code
+
+
 In in this task i will demonstrate API interaction, automation testing with Selenium WebDriver and Python on the Rick and Morty API + Google site using Selenium 
 
 API section
